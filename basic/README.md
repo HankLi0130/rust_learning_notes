@@ -1,4 +1,4 @@
-# 01
+# Basic
 
 * 用 command line 建立 Rust 專案
 
