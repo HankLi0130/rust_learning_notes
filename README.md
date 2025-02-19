@@ -16,6 +16,7 @@
 
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [Rust 程式設計語言](https://rust-lang.tw/book-tw/title-page.html)
+* [Rust 最佳入門與實戰 範例程式](https://github.com/mc6666/RUST_Book)  
 
 ### Videos
 * [Rust Programming Tutorial 🦀](https://youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL&si=7Vxw8U1TdQ0wrHmA)
