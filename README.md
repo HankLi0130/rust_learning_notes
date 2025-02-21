@@ -8,6 +8,7 @@
 
 * [基礎知識](basic)
 * [在各個平台印出 Rust code 的 log](logger)
+* [Function pointer 跟 Closure 的差別](function_pointer_and_closure)
 
 
 ## 參考資源
